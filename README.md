@@ -15,6 +15,8 @@ This is a personal note taking research for understanding EIP protocols and usec
  3. EIP 3386 : to **convert an asset such as invoice and buying partial ownership** to reduce risk.
 
  4. Setup Swap , **Integrate with AMM & Metamask**   (can easily be accomplished using zapier api)
+ 
+ 5. Create new wallet right into metamask wallet 
 
 
 
